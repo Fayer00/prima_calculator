@@ -1,0 +1,24 @@
+{
+  "nombre": "Juan Pérez",
+  "fecha_ingreso": "2023-03-15",
+  "salarios_mensuales": {
+    "enero": 3000000,
+    "febrero": 3000000,
+    "marzo": 3000000,
+    "abril": 3200000,
+    "mayo": 3200000,
+    "junio": 3200000,
+    "julio": 3200000,
+    "agosto": 3200000,
+    "septiembre": 3500000,
+    "octubre": 3500000,
+    "noviembre": 3500000,
+    "diciembre": 3500000
+  },
+  "periodo_calculo": "primer_semestre",
+  "metodo_calculo_salario": "promedio",
+  "ausencias_no_remuneradas": [
+    "2025-04-12",
+    "2025-04-15"
+  ]
+}
